@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="exempt">#808080</color>
+    <color name="urgentImprovementNecessary">#FF0000</color>
+    <color name="majorImprovementNecessary">#ff0000</color>
+    <color name="improvementNecessary">#ff7700</color>
+    <color name="generallySatisfactory">#fff200</color>
+    <color name="good">#77ff01</color>
+    <color name="veryGood">#00a243</color>
+</resources>

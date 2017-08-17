@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food Hygiene Ratings</string>
+
+    <!-- The default strings for list items -->
+    <string name="list_name">Name</string>
+    <string name="list_address">Address</string>
+    <string name="list_rating">Rating</string>
+    <string name="distance">Distance</string>
+
+    <!-- The titles for the menu items -->
+    <string name="menu_location">Location</string>
+    <string name="menu_name">Name</string>
+    <string name="menu_postcode">Postcode</string>
+    <string name="menu_recent">Recent</string>
+
+    <string name="exempt">Exempt</string>
+</resources>
